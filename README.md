@@ -1,1 +1,2 @@
 # Patoir_LaVonne_Client_Server_Application
+Assignment Instructions: Write a client/server application where the client sends the server a request to compute whether a number that the user provided is prime. The server responds with yes or no, then the client displays the answer. Once your client/server application is working, create an executable JAR for the application. To ensure the program works correctly, run the JAR from a command line terminal.
